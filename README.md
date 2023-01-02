@@ -1,1 +1,2 @@
 # DrinkSelectorHTMLWebform
+This HTML app consists of two webpages. The first one which is the home page is the TequillaDrinkSelector.html. This is a webform that takes a customer general information prior to ordering a drink. It has a heading followed by a number of labels and input boxes for the user's information. Once the information is inputted the customer clicks on the "Click to Purchase" submit button and is directed to the next page which confirms the purchase and thanks the customer for their business. Both pages have a source image of a drink. 
